@@ -1,72 +1,85 @@
-# Hi 👋, I'm Karnapu Sravanthi
+<h1 align="center">Hi 👋, I'm Karnapu Sravanthi</h1>
+<h3 align="center">AI & Full-Stack Developer | LLMs • Backend Systems • Real-World Applications</h3>
 
-## 🚀 About Me
-- 🎓 B.Tech CSE (AI) Student at IILM University
-- 💻 AI & Full-Stack Developer
-- 🤖 Working with Large Language Models (LLMs), ML, and backend systems
-- 📊 Focused on building real-world, scalable applications
-
----
-
-## 🔧 Tech Stack
-
-**Languages:**  
-Java | Python | JavaScript | SQL  
-
-**Frontend:**  
-HTML | CSS | Bootstrap | Tailwind CSS  
-
-**Backend:**  
-Node.js | Express.js | Spring Boot | REST APIs | Authentication (JWT)  
-
-**Databases:**  
-MySQL | MongoDB  
-
-**Tools:**  
-Git | GitHub | Postman | VS Code | IntelliJ  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sravanthi285&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 📌 Projects
+## 🚀 About
+- B.Tech CSE (AI) student focused on building **production-level applications**
+- Experience with **LLMs, ML systems, and backend architecture**
+- Strong foundation in **DSA, APIs, and database design**
+- Goal: Become a **top-tier software engineer (AI + backend systems)**
 
-### 🔹 AI-Based Land Cover Classification
-- Built using CNN (MobileNetV2) + Google Earth Engine  
-- Interactive 3D visualization using CesiumJS  
-- Handles real & simulated satellite data  
+---
 
-### 🔹 Time Tracker System
-- Full-stack attendance & leave management system  
+## 🔗 Profiles
+- GitHub: https://github.com/Sravanthi285  
+- LeetCode: https://leetcode.com/u/9T5DMC9y_KSZmh/  
+- LinkedIn: https://in.linkedin.com/in/karnapu-sravanthi-a36865295  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Java, Python, JavaScript, SQL  
+**Backend:** Node.js, Express.js, Spring Boot, REST APIs, JWT  
+**Frontend:** HTML, CSS, Bootstrap, Tailwind  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, Postman, VS Code, IntelliJ  
+
+---
+
+## 📌 Key Projects
+
+### 🔹 AI Land Cover Classification (CNN + GEE)
+- Built using MobileNetV2 + Google Earth Engine  
+- Designed fallback system for missing satellite data  
+- 3D geospatial visualization using CesiumJS  
+
+### 🔹 Time Tracker System (Full-Stack)
 - Role-based authentication (Admin/Employee)  
-- REST APIs with Node.js & MySQL  
+- REST APIs with Node.js + MySQL  
+- Optimized database queries for performance  
 
 ---
 
-## 🏆 Experience
-**Artificial Intelligence Intern – Infosys Springboard**
-- Worked on AI-based solutions using Python  
-- Improved backend performance & scalability  
-- Integrated AI outputs into frontend dashboards  
+## 🧠 Problem Solving
+- Actively solving DSA problems on LeetCode  
+- Focus: logic building, patterns, and optimization  
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/9T5DMC9y_KSZmh?theme=dark&font=baloo&ext=contest" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Sravanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+## 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sravanthi285&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanthi285&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: YOUR_LINK
-- 📧 Email: karnapusravanthi8@gmail.com
+## 🔥 Consistency
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Sravanthi285&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚡ Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+## 📈 Activity
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravanthi285&theme=tokyo-night" />
+</p>
 
+---
+## Contact
+- LinkedIn: https://in.linkedin.com/in/karnapu-sravanthi-a36865295  
+- Email: karnapusravanthi8@gmail.com  
+
+
+## ⚡ Execution Mindset
+I don’t chase tutorials. I build systems, solve problems, and improve daily.
